@@ -1,0 +1,21 @@
+{ Country: 'Afghanistan', Active: 9796, Death: 1269 }
+{ Country: 'Argentina', Active: 91782, Death: 3059 }
+{ Country: 'Bangladesh', Active: 97577, Death: 2965 }
+{ Country: 'Belgium', Active: 39154, Death: 9822 }
+{ Country: 'Bolivia', Active: 47056, Death: 2647 }
+{ Country: 'Brazil', Active: 508116, Death: 87618 }
+{ Country: 'Canada', Active: 107514, Death: 8944 }
+{ Country: 'Chile', Active: 18782, Death: 9187 }
+{ Country: 'Colombia', Active: 117163, Death: 8777 }
+{ Country: 'Dominican Republic', Active: 32869, Death: 1083 }
+{ Country: 'Ecuador', Active: 40733, Death: 5532 }
+{ Country: 'Egypt', Active: 52992, Death: 4652 }
+{ Country: 'France', Active: 108928, Death: 30212 }
+{ Country: 'Guatemala', Active: 11093, Death: 1761 }
+{ Country: 'Honduras', Active: 33536, Death: 1166 }
+{ Country: 'India', Active: 495499, Death: 33408 }
+{ Country: 'Indonesia', Active: 37292, Death: 4838 }
+{ Country: 'Iran', Active: 22550, Death: 15912 }
+{ Country: 'Iraq', Active: 30983, Death: 4458 }
+{ Country: 'Italy', Active: 12581, Death: 35112 }
+Type "it" for more
