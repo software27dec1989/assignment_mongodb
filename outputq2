@@ -1,142 +1,40 @@
-[
-  {
-    'Country/Region': 'USA',
-    TotalDeaths: 162804,
-    'WHO Region': 'Americas',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Brazil',
-    TotalDeaths: 98644,
-    'WHO Region': 'Americas',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'India',
-    TotalDeaths: 41638,
-    'WHO Region': 'South-EastAsia',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-BDS_DB>
-    TotalDeaths: 14606,
-    'WHO Region': 'Europe',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Mexico',
-    TotalDeaths: 50517,
-    'WHO Region': 'Americas',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'South Africa',
-    TotalDeaths: 9604,
-    'WHO Region': 'Africa',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Peru',
-    TotalDeaths: 20424,
-    'WHO Region': 'Americas',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Chile',
-    TotalDeaths: 9889,
-    'WHO Region': 'Americas',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Colombia',
-    TotalDeaths: 11939,
-    'WHO Region': 'Americas',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Spain',
-    TotalDeaths: 28500,
-    'WHO Region': 'Europe',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Iran',
-    TotalDeaths: 17976,
-    'WHO Region': 'EasternMediterranean',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'UK',
-    TotalDeaths: 46413,
-    'WHO Region': 'Europe',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Saudi Arabia',
-    TotalDeaths: 3055,
-    'WHO Region': 'EasternMediterranean',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Pakistan',
-    TotalDeaths: 6035,
-    'WHO Region': 'EasternMediterranean',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Bangladesh',
-    TotalDeaths: 3306,
-    'WHO Region': 'South-EastAsia',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Italy',
-    TotalDeaths: 35187,
-    'WHO Region': 'Europe',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Turkey',
-    TotalDeaths: 5798,
-    'WHO Region': 'Europe',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Germany',
-    TotalDeaths: 9252,
-    'WHO Region': 'Europe',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'Argentina',
-    TotalDeaths: 4251,
-    'WHO Region': 'Americas',
-    _id: 'null',
-    Continent: 'Asia'
-  },
-  {
-    'Country/Region': 'France',
-    TotalDeaths: 30312,
-    'WHO Region': 'Europe',
-    _id: 'null',
-    Continent: 'Asia'
-  }
-]
+{ _id: { Country: 'Japan', WHO_Region: 'WesternPacific' },
+  Total_Deaths: 1026 }
+{ _id: { Country: 'Kazakhstan', WHO_Region: 'Europe' },
+  Total_Deaths: 1058 }
+{ _id: { Country: 'Kyrgyzstan', WHO_Region: 'Europe' },
+  Total_Deaths: 1447 }
+{ _id: { Country: 'Sri Lanka', WHO_Region: 'South-EastAsia' },
+  Total_Deaths: 11 }
+{ _id: { Country: 'Maldives', WHO_Region: 'South-EastAsia' },
+  Total_Deaths: 19 }
+{ _id: { Country: 'Georgia', WHO_Region: 'Europe' },
+  Total_Deaths: 17 }
+{ _id: { Country: 'Pakistan', WHO_Region: 'EasternMediterranean' },
+  Total_Deaths: 6035 }
+{ _id: { Country: 'Philippines', WHO_Region: 'WesternPacific' },
+  Total_Deaths: 2150 }
+{ _id: { Country: 'Azerbaijan', WHO_Region: 'Europe' },
+  Total_Deaths: 479 }
+{ _id: { Country: 'Vietnam', WHO_Region: 'WesternPacific' },
+  Total_Deaths: 10 }
+{ _id: { Country: 'Bahrain', WHO_Region: 'EasternMediterranean' },
+  Total_Deaths: 156 }
+{ _id: { Country: 'Armenia', WHO_Region: 'Europe' },
+  Total_Deaths: 772 }
+{ _id: { Country: 'Thailand', WHO_Region: 'South-EastAsia' },
+  Total_Deaths: 58 }
+{ _id: { Country: 'Cyprus', WHO_Region: 'Europe' },
+  Total_Deaths: 19 }
+{ _id: { Country: 'Lebanon', WHO_Region: 'EasternMediterranean' },
+  Total_Deaths: 70 }
+{ _id: { Country: 'Macao', WHO_Region: '' }, Total_Deaths: 0 }
+{ _id: { Country: 'Afghanistan', WHO_Region: 'EasternMediterranean' },
+  Total_Deaths: 1298 }
+{ _id: { Country: 'Qatar', WHO_Region: 'EasternMediterranean' },
+  Total_Deaths: 178 }
+{ _id: { Country: 'UAE', WHO_Region: 'EasternMediterranean' },
+  Total_Deaths: 354 }
+{ _id: { Country: 'Uzbekistan', WHO_Region: 'Europe' },
+  Total_Deaths: 175 }
+Type "it" for more
