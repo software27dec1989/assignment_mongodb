@@ -1,0 +1,101 @@
+{ Country: 'Zimbabwe',
+  'New Cases': 192,
+  'New Deaths': 2,
+  'New Recovered': 24,
+  ActiveNewCases: 166 }
+{ Country: 'Zambia',
+  'New Cases': 71,
+  'New Deaths': 1,
+  'New Recovered': 465,
+  ActiveNewCases: 0 }
+{ Country: 'Yemen',
+  'New Cases': 10,
+  'New Deaths': 4,
+  'New Recovered': 36,
+  ActiveNewCases: 0 }
+{ Country: 'Western Sahara',
+  'New Cases': 0,
+  'New Deaths': 0,
+  'New Recovered': 0,
+  ActiveNewCases: 0 }
+{ Country: 'West Bank and Gaza',
+  'New Cases': 152,
+  'New Deaths': 2,
+  'New Recovered': 0,
+  ActiveNewCases: 150 }
+{ Country: 'Vietnam',
+  'New Cases': 11,
+  'New Deaths': 0,
+  'New Recovered': 0,
+  ActiveNewCases: 11 }
+{ Country: 'Venezuela',
+  'New Cases': 525,
+  'New Deaths': 4,
+  'New Recovered': 213,
+  ActiveNewCases: 308 }
+{ Country: 'Uzbekistan',
+  'New Cases': 678,
+  'New Deaths': 5,
+  'New Recovered': 569,
+  ActiveNewCases: 104 }
+{ Country: 'Uruguay',
+  'New Cases': 10,
+  'New Deaths': 1,
+  'New Recovered': 3,
+  ActiveNewCases: 6 }
+{ Country: 'United Kingdom',
+  'New Cases': 688,
+  'New Deaths': 7,
+  'New Recovered': 3,
+  ActiveNewCases: 678 }
+{ Country: 'United Arab Emirates',
+  'New Cases': 264,
+  'New Deaths': 1,
+  'New Recovered': 328,
+  ActiveNewCases: 0 }
+{ Country: 'Ukraine',
+  'New Cases': 835,
+  'New Deaths': 11,
+  'New Recovered': 317,
+  ActiveNewCases: 507 }
+{ Country: 'Uganda',
+  'New Cases': 13,
+  'New Deaths': 0,
+  'New Recovered': 4,
+  ActiveNewCases: 9 }
+{ Country: 'US',
+  'New Cases': 56336,
+  'New Deaths': 1076,
+  'New Recovered': 27941,
+  ActiveNewCases: 27319 }
+{ Country: 'Turkey',
+  'New Cases': 919,
+  'New Deaths': 17,
+  'New Recovered': 982,
+  ActiveNewCases: 0 }
+{ Country: 'Tunisia',
+  'New Cases': 3,
+  'New Deaths': 0,
+  'New Recovered': 15,
+  ActiveNewCases: 0 }
+{ Country: 'Trinidad and Tobago',
+  'New Cases': 1,
+  'New Deaths': 0,
+  'New Recovered': 0,
+  ActiveNewCases: 1 }
+{ Country: 'Togo',
+  'New Cases': 6,
+  'New Deaths': 0,
+  'New Recovered': 8,
+  ActiveNewCases: 0 }
+{ Country: 'Timor-Leste',
+  'New Cases': 0,
+  'New Deaths': 0,
+  'New Recovered': 0,
+  ActiveNewCases: 0 }
+{ Country: 'Thailand',
+  'New Cases': 6,
+  'New Deaths': 0,
+  'New Recovered': 2,
+  ActiveNewCases: 4 }
+Type "it" for more
