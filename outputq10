@@ -1,0 +1,27 @@
+{ Date: '2020-03-30',
+  'Country/Region': 'Papua New Guinea',
+  Active: 1 }
+{ Date: '2020-03-30',
+  'Country/Region': 'Timor-Leste',
+  Active: 1 }
+{ Date: '2020-03-30', 'Country/Region': 'Mauritania', Active: 2 }
+{ Date: '2020-03-30', 'Country/Region': 'Belize', Active: 3 }
+{ Date: '2020-03-30', 'Country/Region': 'Botswana', Active: 3 }
+{ Date: '2020-03-30',
+  'Country/Region': 'Central African Republic',
+  Active: 3 }
+{ Date: '2020-03-30', 'Country/Region': 'Gambia', Active: 3 }
+{ Date: '2020-03-30', 'Country/Region': 'Liberia', Active: 3 }
+{ Date: '2020-03-30', 'Country/Region': 'Nicaragua', Active: 3 }
+{ Date: '2020-03-30', 'Country/Region': 'Somalia', Active: 3 }
+{ Date: '2020-03-30', 'Country/Region': 'Bhutan', Active: 4 }
+{ Date: '2020-03-30', 'Country/Region': 'Maldives', Active: 4 }
+{ Date: '2020-03-30', 'Country/Region': 'Nepal', Active: 4 }
+{ Date: '2020-03-30', 'Country/Region': 'Sudan', Active: 4 }
+{ Date: '2020-03-30', 'Country/Region': 'Angola', Active: 5 }
+{ Date: '2020-03-30', 'Country/Region': 'Cabo Verde', Active: 5 }
+{ Date: '2020-03-30', 'Country/Region': 'Chad', Active: 5 }
+{ Date: '2020-03-30', 'Country/Region': 'Fiji', Active: 5 }
+{ Date: '2020-03-30', 'Country/Region': 'Benin', Active: 6 }
+{ Date: '2020-03-30', 'Country/Region': 'Gabon', Active: 6 }
+Type "it" for more
